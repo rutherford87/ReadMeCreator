@@ -1,28 +1,33 @@
 
-  # Homework 09 - ReadMeCreator [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+  # Homework 09 - ReadMeCreator [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
   
   ## Table of Contents
   <!-- TOC -->
   - [Introduction](#introduction)
-  - [Details](#details)
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage Information](#Usage)
   - [Contact](#contact)
   <!-- /TOC -->
 
   ## Introduction
- The name of my project is Homework 9.  
- Description: A user can use this tool to create a readme from the command line.
+ The name of my project is tyler.  
+ 
+  ## Description  
+ bbq
 
-  ## Details
+  ## Installation  
   User can follow these instructions for installation:  
-  clone the repo
+  bbq
 
-
-   A user can use this tool to create a readme from the command line.
+  ## Usage
+  Tips for using this tool:
+   bbq
 
    ## Contact
-  You can find my repo at:  
-   rutherford87
+  Search my username to find my github repo:  
+  www.github.com/bbq
 
   My email address is:  
-    rutherford87@gmail.com  
+    bbq  
 

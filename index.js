@@ -39,7 +39,7 @@ var questions =[
      type: 'list',
      name: 'license',
      message: 'What license is ',
-     choices: ['MIT', 'Boost'],
+     choices: ['Apache', 'Boost'],
     }
   ];
 
